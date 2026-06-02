@@ -1,0 +1,8 @@
+Plant Growth Stages
+===================
+
+Stage 1 – Germination
+Stage 2 – Seedling
+Stage 3 – Vegetative growth
+Stage 4 – Flowering
+Stage 5 – Fruiting and seed dispersal
